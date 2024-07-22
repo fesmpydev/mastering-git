@@ -1,2 +1,2 @@
 Este archivo representa uno nuevo desde la creacion de una nueva rama en github.
-Estoy agregando una solucion a la ultima version descargada
+Hemos estabilizado la version nuevamente.
